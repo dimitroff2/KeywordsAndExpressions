@@ -18,6 +18,7 @@ public class Main {
 
         /* Whitespace is any extra spacing, horizontally or vertically, placed around Java source code.
            Its done for humans so they can read Java easier and Java just ignores whitespace
+           Code convetions for white space do exist in the Google Java Style Guide
          */
 
 
